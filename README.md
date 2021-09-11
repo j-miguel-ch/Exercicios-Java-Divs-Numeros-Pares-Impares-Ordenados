@@ -2,7 +2,7 @@
 
 # Desafio
 
-Crie um programa onde você receberá valores inteiros não negativos como entrada.
+Crie um programa onde você receberá valores inteiros não negativos como entrada. :tada:
 
 Ordene estes valores de acordo com o seguinte critério:
 - Primeiro os Pares
@@ -21,3 +21,6 @@ Exiba todos os valores lidos na entrada segundo a ordem apresentada acima. Cada 
 
 | Exemplo de Saída|
 |4 / 32 / 34 / 98 / 654 / 3456 / 6789 / 567 / 543 / 87|
+
+
+linha teste
